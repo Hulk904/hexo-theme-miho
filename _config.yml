@@ -68,7 +68,7 @@ open_new_link: false
 # Article default cover picture，size：350*150 | 文章默认封面图，尺寸：350*150
 cover_picture: images/banner.jpg
 # Open background particles | 开启背景粒子
-open_bg_particle: true
+open_bg_particle: false
 # Open animation in homepage and head | 开启主页及头部动画
 open_animation: true
 
